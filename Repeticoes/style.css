@@ -17,11 +17,12 @@ h1{
 .btn button{
     border-radius: 25px;
     margin: 10px;
-    width: 250px;
-    height: 125px;
+    width: 500px;
+    height: 250px;
     border: none;
     background: whitesmoke;
     color: black;
+    font-size: x-large
 }
 .btn button:hover{
     transition: 1s;
